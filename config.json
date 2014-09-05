@@ -1,0 +1,7 @@
+{
+  "pingFrequency" : 900000,
+  "urlsToPing" : [
+  	"http://myappurl.com", 
+  	"http://myappurl2.com"
+  ]
+}

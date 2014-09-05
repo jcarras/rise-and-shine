@@ -1,0 +1,14 @@
+{
+  "name": "rise-and-shine",
+  "version": "0.0.1",
+  "description": "Simple app to ping heroku server to keep it alive.",
+  "main": "server.js",
+  "dependencies": {
+    "request": "2.34.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "npm cache clean"
+  },
+  "author": "ReadyBird Ltd."
+}
